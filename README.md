@@ -1,9 +1,9 @@
-# theeaglesbot
+# Algoedgebot
 # TheEagleOfWallStreet Trading Bot
 
 ### Overview
 
-TheEagleOfWallStreet is an automated trading bot designed to trade the GBP/USD currency pair on the 1-hour timeframe. This bot is built using MQL4 and is intended to execute trades based on specific technical patterns and conditions.
+Thealgoedgebot is an automated trading bot designed to trade the XAU/USD currency pair on the 4-hour timeframe. This bot is built using MQL4 and is intended to execute trades based on specific technical patterns and conditions.
 
 ### Strategy
 
